@@ -1,0 +1,1103 @@
+{
+  "data": [{
+     "location": "Alabama",
+     "language": "JAVA",
+     "hits": "351"
+    },{
+     "location": "Alabama",
+     "language": "JAVASCRIPT",
+     "hits": "269"
+    },{
+     "location": "Alabama",
+     "language": "C++",
+     "hits": "307"
+    },{
+     "location": "Alabama",
+     "language": "C#",
+     "hits": "229"
+    },{
+     "location": "Alabama",
+     "language": "PYTHON",
+     "hits": "158"
+    },{
+     "location": "Alaska",
+     "language": "JAVA",
+     "hits": "9"
+    },{
+     "location": "Alaska",
+     "language": "JAVASCRIPT",
+     "hits": "6"
+    },{
+     "location": "Alaska",
+     "language": "C++",
+     "hits": "3"
+    },{
+     "location": "Alaska",
+     "language": "C#",
+     "hits": "8"
+    },{
+     "location": "Alaska",
+     "language": "PYTHON",
+     "hits": "8"
+    },{
+     "location": "Arizona",
+     "language": "JAVA",
+     "hits": "1306"
+    },{
+     "location": "Arizona",
+     "language": "JAVASCRIPT",
+     "hits": "802"
+    },{
+     "location": "Arizona",
+     "language": "C++",
+     "hits": "458"
+    },{
+     "location": "Arizona",
+     "language": "C#",
+     "hits": "606"
+    },{
+     "location": "Arizona",
+     "language": "PYTHON",
+     "hits": "480"
+    },{
+     "location": "Arkansas",
+     "language": "JAVA",
+     "hits": "177"
+    },{
+     "location": "Arkansas",
+     "language": "JAVASCRIPT",
+     "hits": "69"
+    },{
+     "location": "Arkansas",
+     "language": "C++",
+     "hits": "50"
+    },{
+     "location": "Arkansas",
+     "language": "C#",
+     "hits": "54"
+    },{
+     "location": "Arkansas",
+     "language": "PYTHON",
+     "hits": "42"
+    },{
+     "location": "California",
+     "language": "JAVA",
+     "hits": "17403"
+    },{
+     "location": "California",
+     "language": "JAVASCRIPT",
+     "hits": "11556"
+    },{
+     "location": "California",
+     "language": "C++",
+     "hits": "9019"
+    },{
+     "location": "California",
+     "language": "C#",
+     "hits": "4632"
+    },{
+     "location": "California",
+     "language": "PYTHON",
+     "hits": "13103"
+    },{
+     "location": "Colorado",
+     "language": "JAVA",
+     "hits": "2023"
+    },{
+     "location": "Colorado",
+     "language": "JAVASCRIPT",
+     "hits": "1355"
+    },{
+     "location": "Colorado",
+     "language": "C++",
+     "hits": "933"
+    },{
+     "location": "Colorado",
+     "language": "C#",
+     "hits": "840"
+    },{
+     "location": "Colorado",
+     "language": "PYTHON",
+     "hits": "1117"
+    },{
+     "location": "Connecticut",
+     "language": "JAVA",
+     "hits": "797"
+    },{
+     "location": "Connecticut",
+     "language": "JAVASCRIPT",
+     "hits": "610"
+    },{
+     "location": "Connecticut",
+     "language": "C++",
+     "hits": "266"
+    },{
+     "location": "Connecticut",
+     "language": "C#",
+     "hits": "341"
+    },{
+     "location": "Connecticut",
+     "language": "PYTHON",
+     "hits": "372"
+    },{
+     "location": "Delaware",
+     "language": "JAVA",
+     "hits": "398"
+    },{
+     "location": "Delaware",
+     "language": "JAVASCRIPT",
+     "hits": "165"
+    },{
+     "location": "Delaware",
+     "language": "C++",
+     "hits": "86"
+    },{
+     "location": "Delaware",
+     "language": "C#",
+     "hits": "141"
+    },{
+     "location": "Delaware",
+     "language": "PYTHON",
+     "hits": "99"
+    },{
+     "location": "Florida",
+     "language": "JAVA",
+     "hits": "2315"
+    },{
+     "location": "Florida",
+     "language": "JAVASCRIPT",
+     "hits": "2044"
+    },{
+     "location": "Florida",
+     "language": "C++",
+     "hits": "945"
+    },{
+     "location": "Florida",
+     "language": "C#",
+     "hits": "1443"
+    },{
+     "location": "Florida",
+     "language": "PYTHON",
+     "hits": "816"
+    },{
+     "location": "Georgia",
+     "language": "JAVA",
+     "hits": "2495"
+    },{
+     "location": "Georgia",
+     "language": "JAVASCRIPT",
+     "hits": "1907"
+    },{
+     "location": "Georgia",
+     "language": "C++",
+     "hits": "776"
+    },{
+     "location": "Georgia",
+     "language": "C#",
+     "hits": "1208"
+    },{
+     "location": "Georgia",
+     "language": "PYTHON",
+     "hits": "1023"
+    },{
+     "location": "Hawaii",
+     "language": "JAVA",
+     "hits": "46"
+    },{
+     "location": "Hawaii",
+     "language": "JAVASCRIPT",
+     "hits": "33"
+    },{
+     "location": "Hawaii",
+     "language": "C++",
+     "hits": "14"
+    },{
+     "location": "Hawaii",
+     "language": "C#",
+     "hits": "25"
+    },{
+     "location": "Hawaii",
+     "language": "PYTHON",
+     "hits": "16"
+    },{
+     "location": "Idaho",
+     "language": "JAVA",
+     "hits": "104"
+    },{
+     "location": "Idaho",
+     "language": "JAVASCRIPT",
+     "hits": "74"
+    },{
+     "location": "Idaho",
+     "language": "C++",
+     "hits": "124"
+    },{
+     "location": "Idaho",
+     "language": "C#",
+     "hits": "82"
+    },{
+     "location": "Idaho",
+     "language": "PYTHON",
+     "hits": "126"
+    },{
+     "location": "Illinois",
+     "language": "JAVA",
+     "hits": "3414"
+    },{
+     "location": "Illinois",
+     "language": "JAVASCRIPT",
+     "hits": "3029"
+    },{
+     "location": "Illinois",
+     "language": "C++",
+     "hits": "1377"
+    },{
+     "location": "Illinois",
+     "language": "C#",
+     "hits": "1962"
+    },{
+     "location": "Illinois",
+     "language": "PYTHON",
+     "hits": "2068"
+    },{
+     "location": "Indiana",
+     "language": "JAVA",
+     "hits": "550"
+    },{
+     "location": "Indiana",
+     "language": "JAVASCRIPT",
+     "hits": "436"
+    },{
+     "location": "Indiana",
+     "language": "C++",
+     "hits": "123"
+    },{
+     "location": "Indiana",
+     "language": "C#",
+     "hits": "391"
+    },{
+     "location": "Indiana",
+     "language": "PYTHON",
+     "hits": "163"
+    },{
+     "location": "Iowa",
+     "language": "JAVA",
+     "hits": "176"
+    },{
+     "location": "Iowa",
+     "language": "JAVASCRIPT",
+     "hits": "209"
+    },{
+     "location": "Iowa",
+     "language": "C++",
+     "hits": "94"
+    },{
+     "location": "Iowa",
+     "language": "C#",
+     "hits": "330"
+    },{
+     "location": "Iowa",
+     "language": "PYTHON",
+     "hits": "93"
+    },{
+     "location": "Kansas",
+     "language": "JAVA",
+     "hits": "225"
+    },{
+     "location": "Kansas",
+     "language": "JAVASCRIPT",
+     "hits": "257"
+    },{
+     "location": "Kansas",
+     "language": "C++",
+     "hits": "80"
+    },{
+     "location": "Kansas",
+     "language": "C#",
+     "hits": "233"
+    },{
+     "location": "Kansas",
+     "language": "PYTHON",
+     "hits": "99"
+    },{
+     "location": "Kentucky",
+     "language": "JAVA",
+     "hits": "166"
+    },{
+     "location": "Kentucky",
+     "language": "JAVASCRIPT",
+     "hits": "207"
+    },{
+     "location": "Kentucky",
+     "language": "C++",
+     "hits": "69"
+    },{
+     "location": "Kentucky",
+     "language": "C#",
+     "hits": "237"
+    },{
+     "location": "Kentucky",
+     "language": "PYTHON",
+     "hits": "34"
+    },{
+     "location": "Louisiana",
+     "language": "JAVA",
+     "hits": "166"
+    },{
+     "location": "Louisiana",
+     "language": "JAVASCRIPT",
+     "hits": "121"
+    },{
+     "location": "Louisiana",
+     "language": "C++",
+     "hits": "42"
+    },{
+     "location": "Louisiana",
+     "language": "C#",
+     "hits": "87"
+    },{
+     "location": "Louisiana",
+     "language": "PYTHON",
+     "hits": "56"
+    },{
+     "location": "Maine",
+     "language": "JAVA",
+     "hits": "87"
+    },{
+     "location": "Maine",
+     "language": "JAVASCRIPT",
+     "hits": "96"
+    },{
+     "location": "Maine",
+     "language": "C++",
+     "hits": "24"
+    },{
+     "location": "Maine",
+     "language": "C#",
+     "hits": "37"
+    },{
+     "location": "Maine",
+     "language": "PYTHON",
+     "hits": "43"
+    },{
+     "location": "Maryland",
+     "language": "JAVA",
+     "hits": "4097"
+    },{
+     "location": "Maryland",
+     "language": "JAVASCRIPT",
+     "hits": "2206"
+    },{
+     "location": "Maryland",
+     "language": "C++",
+     "hits": "2036"
+    },{
+     "location": "Maryland",
+     "language": "C#",
+     "hits": "1046"
+    },{
+     "location": "Maryland",
+     "language": "PYTHON",
+     "hits": "1954"
+    },{
+     "location": "Massachusetts",
+     "language": "JAVA",
+     "hits": "4320"
+    },{
+     "location": "Massachusetts",
+     "language": "JAVASCRIPT",
+     "hits": "3358"
+    },{
+     "location": "Massachusetts",
+     "language": "C++",
+     "hits": "2170"
+    },{
+     "location": "Massachusetts",
+     "language": "C#",
+     "hits": "1705"
+    },{
+     "location": "Massachusetts",
+     "language": "PYTHON",
+     "hits": "2942"
+    },{
+     "location": "Michigan",
+     "language": "JAVA",
+     "hits": "1398"
+    },{
+     "location": "Michigan",
+     "language": "JAVASCRIPT",
+     "hits": "1023"
+    },{
+     "location": "Michigan",
+     "language": "C++",
+     "hits": "900"
+    },{
+     "location": "Michigan",
+     "language": "C#",
+     "hits": "812"
+    },{
+     "location": "Michigan",
+     "language": "PYTHON",
+     "hits": "465"
+    },{
+     "location": "Minnesota",
+     "language": "JAVA",
+     "hits": "1373"
+    },{
+     "location": "Minnesota",
+     "language": "JAVASCRIPT",
+     "hits": "991"
+    },{
+     "location": "Minnesota",
+     "language": "C++",
+     "hits": "346"
+    },{
+     "location": "Minnesota",
+     "language": "C#",
+     "hits": "666"
+    },{
+     "location": "Minnesota",
+     "language": "PYTHON",
+     "hits": "394"
+    },{
+     "location": "Mississippi",
+     "language": "JAVA",
+     "hits": "61"
+    },{
+     "location": "Mississippi",
+     "language": "JAVASCRIPT",
+     "hits": "64"
+    },{
+     "location": "Mississippi",
+     "language": "C++",
+     "hits": "38"
+    },{
+     "location": "Mississippi",
+     "language": "C#",
+     "hits": "34"
+    },{
+     "location": "Mississippi",
+     "language": "PYTHON",
+     "hits": "34"
+    },{
+     "location": "Missouri",
+     "language": "JAVA",
+     "hits": "1075"
+    },{
+     "location": "Missouri",
+     "language": "JAVASCRIPT",
+     "hits": "730"
+    },{
+     "location": "Missouri",
+     "language": "C++",
+     "hits": "236"
+    },{
+     "location": "Missouri",
+     "language": "C#",
+     "hits": "596"
+    },{
+     "location": "Missouri",
+     "language": "PYTHON",
+     "hits": "327"
+    },{
+     "location": "Montana",
+     "language": "JAVA",
+     "hits": "49"
+    },{
+     "location": "Montana",
+     "language": "JAVASCRIPT",
+     "hits": "52"
+    },{
+     "location": "Montana",
+     "language": "C++",
+     "hits": "29"
+    },{
+     "location": "Montana",
+     "language": "C#",
+     "hits": "27"
+    },{
+     "location": "Montana",
+     "language": "PYTHON",
+     "hits": "30"
+    },{
+     "location": "Nebraska",
+     "language": "JAVA",
+     "hits": "233"
+    },{
+     "location": "Nebraska",
+     "language": "JAVASCRIPT",
+     "hits": "202"
+    },{
+     "location": "Nebraska",
+     "language": "C++",
+     "hits": "75"
+    },{
+     "location": "Nebraska",
+     "language": "C#",
+     "hits": "176"
+    },{
+     "location": "Nebraska",
+     "language": "PYTHON",
+     "hits": "58"
+    },{
+     "location": "Nevada",
+     "language": "JAVA",
+     "hits": "210"
+    },{
+     "location": "Nevada",
+     "language": "JAVASCRIPT",
+     "hits": "145"
+    },{
+     "location": "Nevada",
+     "language": "C++",
+     "hits": "133"
+    },{
+     "location": "Nevada",
+     "language": "C#",
+     "hits": "138"
+    },{
+     "location": "Nevada",
+     "language": "PYTHON",
+     "hits": "79"
+    },{
+     "location": "New Hampshire",
+     "language": "JAVA",
+     "hits": "196"
+    },{
+     "location": "New Hampshire",
+     "language": "JAVASCRIPT",
+     "hits": "164"
+    },{
+     "location": "New Hampshire",
+     "language": "C++",
+     "hits": "148"
+    },{
+     "location": "New Hampshire",
+     "language": "C#",
+     "hits": "121"
+    },{
+     "location": "New Hampshire",
+     "language": "PYTHON",
+     "hits": "109"
+    },{
+     "location": "New Jersey",
+     "language": "JAVA",
+     "hits": "3128"
+    },{
+     "location": "New Jersey",
+     "language": "JAVASCRIPT",
+     "hits": "1776"
+    },{
+     "location": "New Jersey",
+     "language": "C++",
+     "hits": "892"
+    },{
+     "location": "New Jersey",
+     "language": "C#",
+     "hits": "1051"
+    },{
+     "location": "New Jersey",
+     "language": "PYTHON",
+     "hits": "1219"
+    },{
+     "location": "New Mexico",
+     "language": "JAVA",
+     "hits": "146"
+    },{
+     "location": "New Mexico",
+     "language": "JAVASCRIPT",
+     "hits": "71"
+    },{
+     "location": "New Mexico",
+     "language": "C++",
+     "hits": "134"
+    },{
+     "location": "New Mexico",
+     "language": "C#",
+     "hits": "56"
+    },{
+     "location": "New Mexico",
+     "language": "PYTHON",
+     "hits": "127"
+    },{
+     "location": "New York",
+     "language": "JAVA",
+     "hits": "5640"
+    },{
+     "location": "New York",
+     "language": "JAVASCRIPT",
+     "hits": "4869"
+    },{
+     "location": "New York",
+     "language": "C++",
+     "hits": "2533"
+    },{
+     "location": "New York",
+     "language": "C#",
+     "hits": "2165"
+    },{
+     "location": "New York",
+     "language": "PYTHON",
+     "hits": "4043"
+    },{
+     "location": "North Carolina",
+     "language": "JAVA",
+     "hits": "2093"
+    },{
+     "location": "North Carolina",
+     "language": "JAVASCRIPT",
+     "hits": "1495"
+    },{
+     "location": "North Carolina",
+     "language": "C++",
+     "hits": "568"
+    },{
+     "location": "North Carolina",
+     "language": "C#",
+     "hits": "991"
+    },{
+     "location": "North Carolina",
+     "language": "PYTHON",
+     "hits": "716"
+    },{
+     "location": "North Dakota",
+     "language": "JAVA",
+     "hits": "13"
+    },{
+     "location": "North Dakota",
+     "language": "JAVASCRIPT",
+     "hits": "16"
+    },{
+     "location": "North Dakota",
+     "language": "C++",
+     "hits": "20"
+    },{
+     "location": "North Dakota",
+     "language": "C#",
+     "hits": "22"
+    },{
+     "location": "North Dakota",
+     "language": "PYTHON",
+     "hits": "14"
+    },{
+     "location": "Ohio",
+     "language": "JAVA",
+     "hits": "1971"
+    },{
+     "location": "Ohio",
+     "language": "JAVASCRIPT",
+     "hits": "1343"
+    },{
+     "location": "Ohio",
+     "language": "C++",
+     "hits": "606"
+    },{
+     "location": "Ohio",
+     "language": "C#",
+     "hits": "1091"
+    },{
+     "location": "Ohio",
+     "language": "PYTHON",
+     "hits": "590"
+    },{
+     "location": "Oklahoma",
+     "language": "JAVA",
+     "hits": "151"
+    },{
+     "location": "Oklahoma",
+     "language": "JAVASCRIPT",
+     "hits": "143"
+    },{
+     "location": "Oklahoma",
+     "language": "C++",
+     "hits": "115"
+    },{
+     "location": "Oklahoma",
+     "language": "C#",
+     "hits": "154"
+    },{
+     "location": "Oklahoma",
+     "language": "PYTHON",
+     "hits": "50"
+    },{
+     "location": "Oregon",
+     "language": "JAVA",
+     "hits": "820"
+    },{
+     "location": "Oregon",
+     "language": "JAVASCRIPT",
+     "hits": "617"
+    },{
+     "location": "Oregon",
+     "language": "C++",
+     "hits": "524"
+    },{
+     "location": "Oregon",
+     "language": "C#",
+     "hits": "404"
+    },{
+     "location": "Oregon",
+     "language": "PYTHON",
+     "hits": "542"
+    },{
+     "location": "Pennsylvania",
+     "language": "JAVA",
+     "hits": "2488"
+    },{
+     "location": "Pennsylvania",
+     "language": "JAVASCRIPT",
+     "hits": "2107"
+    },{
+     "location": "Pennsylvania",
+     "language": "C++",
+     "hits": "820"
+    },{
+     "location": "Pennsylvania",
+     "language": "C#",
+     "hits": "1494"
+    },{
+     "location": "Pennsylvania",
+     "language": "PYTHON",
+     "hits": "1056"
+    },{
+     "location": "Rhode Island",
+     "language": "JAVA",
+     "hits": "170"
+    },{
+     "location": "Rhode Island",
+     "language": "JAVASCRIPT",
+     "hits": "128"
+    },{
+     "location": "Rhode Island",
+     "language": "C++",
+     "hits": "65"
+    },{
+     "location": "Rhode Island",
+     "language": "C#",
+     "hits": "53"
+    },{
+     "location": "Rhode Island",
+     "language": "PYTHON",
+     "hits": "61"
+    },{
+     "location": "South Carolina",
+     "language": "JAVA",
+     "hits": "255"
+    },{
+     "location": "South Carolina",
+     "language": "JAVASCRIPT",
+     "hits": "214"
+    },{
+     "location": "South Carolina",
+     "language": "C++",
+     "hits": "103"
+    },{
+     "location": "South Carolina",
+     "language": "C#",
+     "hits": "188"
+    },{
+     "location": "South Carolina",
+     "language": "PYTHON",
+     "hits": "105"
+    },{
+     "location": "South Dakota",
+     "language": "JAVA",
+     "hits": "31"
+    },{
+     "location": "South Dakota",
+     "language": "JAVASCRIPT",
+     "hits": "38"
+    },{
+     "location": "South Dakota",
+     "language": "C++",
+     "hits": "10"
+    },{
+     "location": "South Dakota",
+     "language": "C#",
+     "hits": "32"
+    },{
+     "location": "South Dakota",
+     "language": "PYTHON",
+     "hits": "11"
+    },{
+     "location": "Tennessee",
+     "language": "JAVA",
+     "hits": "596"
+    },{
+     "location": "Tennessee",
+     "language": "JAVASCRIPT",
+     "hits": "474"
+    },{
+     "location": "Tennessee",
+     "language": "C++",
+     "hits": "185"
+    },{
+     "location": "Tennessee",
+     "language": "C#",
+     "hits": "433"
+    },{
+     "location": "Tennessee",
+     "language": "PYTHON",
+     "hits": "190"
+    },{
+     "location": "Texas",
+     "language": "JAVA",
+     "hits": "5264"
+    },{
+     "location": "Texas",
+     "language": "JAVASCRIPT",
+     "hits": "3978"
+    },{
+     "location": "Texas",
+     "language": "C++",
+     "hits": "2016"
+    },{
+     "location": "Texas",
+     "language": "C#",
+     "hits": "2775"
+    },{
+     "location": "Texas",
+     "language": "PYTHON",
+     "hits": "2262"
+    },{
+     "location": "Utah",
+     "language": "JAVA",
+     "hits": "612"
+    },{
+     "location": "Utah",
+     "language": "JAVASCRIPT",
+     "hits": "670"
+    },{
+     "location": "Utah",
+     "language": "C++",
+     "hits": "281"
+    },{
+     "location": "Utah",
+     "language": "C#",
+     "hits": "416"
+    },{
+     "location": "Utah",
+     "language": "PYTHON",
+     "hits": "321"
+    },{
+     "location": "Vermont",
+     "language": "JAVA",
+     "hits": "30"
+    },{
+     "location": "Vermont",
+     "language": "JAVASCRIPT",
+     "hits": "43"
+    },{
+     "location": "Vermont",
+     "language": "C++",
+     "hits": "21"
+    },{
+     "location": "Vermont",
+     "language": "C#",
+     "hits": "22"
+    },{
+     "location": "Vermont",
+     "language": "PYTHON",
+     "hits": "11"
+    },{
+     "location": "Virginia",
+     "language": "JAVA",
+     "hits": "5655"
+    },{
+     "location": "Virginia",
+     "language": "JAVASCRIPT",
+     "hits": "3619"
+    },{
+     "location": "Virginia",
+     "language": "C++",
+     "hits": "1794"
+    },{
+     "location": "Virginia",
+     "language": "C#",
+     "hits": "1713"
+    },{
+     "location": "Virginia",
+     "language": "PYTHON",
+     "hits": "2534"
+    },{
+     "location": "Washington",
+     "language": "JAVA",
+     "hits": "5425"
+    },{
+     "location": "Washington",
+     "language": "JAVASCRIPT",
+     "hits": "2810"
+    },{
+     "location": "Washington",
+     "language": "C++",
+     "hits": "4096"
+    },{
+     "location": "Washington",
+     "language": "C#",
+     "hits": "3841"
+    },{
+     "location": "Washington",
+     "language": "PYTHON",
+     "hits": "2773"
+    },{
+     "location": "West Virginia",
+     "language": "JAVA",
+     "hits": "91"
+    },{
+     "location": "West Virginia",
+     "language": "JAVASCRIPT",
+     "hits": "52"
+    },{
+     "location": "West Virginia",
+     "language": "C++",
+     "hits": "44"
+    },{
+     "location": "West Virginia",
+     "language": "C#",
+     "hits": "38"
+    },{
+     "location": "West Virginia",
+     "language": "PYTHON",
+     "hits": "32"
+    },{
+     "location": "Wisconsin",
+     "language": "JAVA",
+     "hits": "595"
+    },{
+     "location": "Wisconsin",
+     "language": "JAVASCRIPT",
+     "hits": "557"
+    },{
+     "location": "Wisconsin",
+     "language": "C++",
+     "hits": "267"
+    },{
+     "location": "Wisconsin",
+     "language": "C#",
+     "hits": "495"
+    },{
+     "location": "Wisconsin",
+     "language": "PYTHON",
+     "hits": "273"
+    },{
+     "location": "Wyoming",
+     "language": "JAVA",
+     "hits": "8"
+    },{
+     "location": "Wyoming",
+     "language": "JAVASCRIPT",
+     "hits": "5"
+    },{
+     "location": "Wyoming",
+     "language": "C++",
+     "hits": "3"
+    },{
+     "location": "Wyoming",
+     "language": "C#",
+     "hits": "6"
+    },{
+     "location": "Wyoming",
+     "language": "PYTHON",
+     "hits": "3"
+    },{
+     "location": "American Samoa",
+     "language": "JAVA",
+     "hits": "1"
+    },{
+     "location": "American Samoa",
+     "language": "JAVASCRIPT",
+     "hits": "0"
+    },{
+     "location": "American Samoa",
+     "language": "C++",
+     "hits": "0"
+    },{
+     "location": "American Samoa",
+     "language": "C#",
+     "hits": "1"
+    },{
+     "location": "American Samoa",
+     "language": "PYTHON",
+     "hits": "1"
+    },{
+     "location": "Guam",
+     "language": "JAVA",
+     "hits": "1"
+    },{
+     "location": "Guam",
+     "language": "JAVASCRIPT",
+     "hits": "0"
+    },{
+     "location": "Guam",
+     "language": "C++",
+     "hits": "1"
+    },{
+     "location": "Guam",
+     "language": "C#",
+     "hits": "1"
+    },{
+     "location": "Guam",
+     "language": "PYTHON",
+     "hits": "1"
+    },{
+     "location": "Northern Mariana Islands",
+     "language": "JAVA",
+     "hits": "0"
+    },{
+     "location": "Northern Mariana Islands",
+     "language": "JAVASCRIPT",
+     "hits": "0"
+    },{
+     "location": "Northern Mariana Islands",
+     "language": "C++",
+     "hits": "0"
+    },{
+     "location": "Northern Mariana Islands",
+     "language": "C#",
+     "hits": "0"
+    },{
+     "location": "Northern Mariana Islands",
+     "language": "PYTHON",
+     "hits": "0"
+    },{
+     "location": "Puerto Rico",
+     "language": "JAVA",
+     "hits": "28"
+    },{
+     "location": "Puerto Rico",
+     "language": "JAVASCRIPT",
+     "hits": "33"
+    },{
+     "location": "Puerto Rico",
+     "language": "C++",
+     "hits": "17"
+    },{
+     "location": "Puerto Rico",
+     "language": "C#",
+     "hits": "44"
+    },{
+     "location": "Puerto Rico",
+     "language": "PYTHON",
+     "hits": "4"
+    },{
+     "location": "U.S. Virgin Islands",
+     "language": "JAVA",
+     "hits": "0"
+    },{
+     "location": "U.S. Virgin Islands",
+     "language": "JAVASCRIPT",
+     "hits": "2"
+    },{
+     "location": "U.S. Virgin Islands",
+     "language": "C++",
+     "hits": "0"
+    },{
+     "location": "U.S. Virgin Islands",
+     "language": "C#",
+     "hits": "0"
+    },{
+     "location": "U.S. Virgin Islands",
+     "language": "PYTHON",
+     "hits": "6"
+    }]
+}

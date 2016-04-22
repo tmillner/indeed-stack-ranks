@@ -1,7 +1,7 @@
 'use strict'
 
 var Promise = require('promise');
-var nightmare = require('nightmare')({ show: true })
+var nightmare = require('nightmare')({ waitTimeout: 6000, show: true })
 var fs = require('fs');
 var URL = "http://www.indeed.com/"
 var languagesFile = "languages.json";
@@ -13,39 +13,43 @@ fs.readFile(locationsFile, function(err, locationData) {
   fs.readFile(languagesFile, function(err, languagesData) {
     var languages = JSON.parse(languagesData)["languages"];
 
+    // Bundle up a 2d map of the function tasks
     var locLangs = locations.map(function(loc) {
       return languages.map(function(lang) {
         return function() {
-          return findRecords(loc["location"], lang);
+          return new Promise(function(resolve, reject) {
+            findRecords(loc["location"], lang, resolve);
+          })
         }
       })
     })
 
-    console.log(locLangs[0]);
     var locLangTask = locLangs[0][0]().then(function(res){console.log(res);});
-    for(var i = 0; i < locLangs.length - 1; i++) {
-      for(var j = 0; i < locLangs[i].length - 1; j++) {
-        locLangTask = locLangTask.then(locLangs[i][j]);
-      }
-    }
+    locLangs.forEach(function(locLang) {
+      for(var i = 0; i < locLang.length - 1; i++) locLangTask = locLangTask.then(locLang[i]);
+    })
   });
 });
 
 
-function findRecords(location, language) {
-  return new Promise(function(resolve, reject) {
+function findRecords(location, language, resolve) {
     nightmare
     .goto(URL)
     .insert('input#what', '"' + language + '"')
     .insert('input#where', false)
     .insert('input#where', location)
     .click('input#fj')
-    .wait('div#searchCount')
+    .wait('table#serpBody')
     .evaluate(function () {
-      var count = document.querySelector('div#searchCount').innerHTML;
-      return count.split("of ")[1].replace(/,/g, "").trim()
+      var obj = document.querySelector('div#searchCount');
+      console.log(obj);
+      if (obj == null) {
+        return "0";
+      }
+      else {
+        return obj.innerHTML.split("of ")[1].replace(/,/g, "").trim();
+      }
     })
-    .end()
     .then(function (result) {
       console.log(result)
       var output = {
@@ -56,5 +60,4 @@ function findRecords(location, language) {
       fs.appendFile('indeed-scrape.json', JSON.stringify(output, null, " "));
       resolve("DONE!");
     })
-  })
 }
