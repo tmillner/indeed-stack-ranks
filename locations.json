@@ -1,0 +1,168 @@
+{
+  "locations": [{
+     "location": "Alabama",
+     "population": "4833722"
+    },{
+     "location": "Alaska",
+     "population": "735132"
+    },{
+     "location": "Arizona",
+     "population": "6626624"
+    },{
+     "location": "Arkansas",
+     "population": "2959373"
+    },{
+     "location": "California",
+     "population": "38332521"
+    },{
+     "location": "Colorado",
+     "population": "5268367"
+    },{
+     "location": "Connecticut",
+     "population": "3596080"
+    },{
+     "location": "Delaware",
+     "population": "925749"
+    },{
+     "location": "Florida",
+     "population": "19552860"
+    },{
+     "location": "Georgia",
+     "population": "9992167"
+    },{
+     "location": "Hawaii",
+     "population": "1404054"
+    },{
+     "location": "Idaho",
+     "population": "1612136"
+    },{
+     "location": "Illinois",
+     "population": "12882135"
+    },{
+     "location": "Indiana",
+     "population": "6570902"
+    },{
+     "location": "Iowa",
+     "population": "3090416"
+    },{
+     "location": "Kansas",
+     "population": "2893957"
+    },{
+     "location": "Kentucky",
+     "population": "4395295"
+    },{
+     "location": "Louisiana",
+     "population": "4625470"
+    },{
+     "location": "Maine",
+     "population": "1328302"
+    },{
+     "location": "Maryland",
+     "population": "5928814"
+    },{
+     "location": "Massachusetts",
+     "population": "6692824"
+    },{
+     "location": "Michigan",
+     "population": "9895622"
+    },{
+     "location": "Minnesota",
+     "population": "5420380"
+    },{
+     "location": "Mississippi",
+     "population": "2991207"
+    },{
+     "location": "Missouri",
+     "population": "6021988"
+    },{
+     "location": "Montana",
+     "population": "1015165"
+    },{
+     "location": "Nebraska",
+     "population": "1868516"
+    },{
+     "location": "Nevada",
+     "population": "2790136"
+    },{
+     "location": "New Hampshire",
+     "population": "1323459"
+    },{
+     "location": "New Jersey",
+     "population": "8899339"
+    },{
+     "location": "New Mexico",
+     "population": "2085287"
+    },{
+     "location": "New York",
+     "population": "19651127"
+    },{
+     "location": "North Carolina",
+     "population": "9848060"
+    },{
+     "location": "North Dakota",
+     "population": "723393"
+    },{
+     "location": "Ohio",
+     "population": "11570808"
+    },{
+     "location": "Oklahoma",
+     "population": "3850568"
+    },{
+     "location": "Oregon",
+     "population": "3930065"
+    },{
+     "location": "Pennsylvania",
+     "population": "12773801"
+    },{
+     "location": "Rhode Island",
+     "population": "1051511"
+    },{
+     "location": "South Carolina",
+     "population": "4774839"
+    },{
+     "location": "South Dakota",
+     "population": "844877"
+    },{
+     "location": "Tennessee",
+     "population": "6495978"
+    },{
+     "location": "Texas",
+     "population": "26448193"
+    },{
+     "location": "Utah",
+     "population": "2900872"
+    },{
+     "location": "Vermont",
+     "population": "626630"
+    },{
+     "location": "Virginia",
+     "population": "8260405"
+    },{
+     "location": "Washington",
+     "population": "6971406"
+    },{
+     "location": "West Virginia",
+     "population": "1854304"
+    },{
+     "location": "Wisconsin",
+     "population": "5742713"
+    },{
+     "location": "Wyoming",
+     "population": "582658"
+    },{
+     "location": "American Samoa",
+     "population": "55519"
+    },{
+     "location": "Guam",
+     "population": "159358"
+    },{
+     "location": "Northern Mariana Islands",
+     "population": "53883"
+    },{
+     "location": "Puerto Rico",
+     "population": "3725789"
+    },{
+     "location": "U.S. Virgin Islands",
+     "population": "106405"
+    }]
+}

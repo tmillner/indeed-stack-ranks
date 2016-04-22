@@ -1,0 +1,26 @@
+{
+  "name": "indeed-stack-ranks",
+  "version": "1.0.0",
+  "description": "Indeed programming language count -- by state -- crawler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawler",
+    "languages",
+    "data",
+    "x-ray",
+    "nightmare",
+    "scraper",
+    "programming",
+    "ranking"
+  ],
+  "author": "tmillner",
+  "license": "ISC",
+  "devDependencies": {
+    "nightmare": "^2.3.3",
+    "promise": "^7.1.1",
+    "x-ray": "^2.2.0"
+  }
+}
